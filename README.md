@@ -190,19 +190,17 @@ I enjoy turning ideas into beautiful, responsive, and high-performance applicati
 
 ---
 
-# 📌 Development Journey
+## 🚀 Developer Timeline
 
-```text
-2023  ▓▓▓▓▓▓▓░░░  Started Programming
+```mermaid
+timeline
+    title My Developer Journey
 
-2024  ▓▓▓▓▓▓▓▓▓░  Flutter Development
-
-2025  ▓▓▓▓▓▓▓▓▓▓  Firebase + AI Projects
-
-2026  ▓▓▓▓▓▓▓▓▓▓  Full Stack Development
+    2023 : Started Programming
+    2024 : Flutter Development
+    2025 : AI & Full Stack Projects
+    2026 : Building Production Apps
 ```
-
----
 
 # 🔥 Highlights
 
@@ -324,13 +322,13 @@ Dream:
 
 ---
 
-# 📈 Coding Time
+## 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayaz16hub&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaz16hub&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
