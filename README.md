@@ -92,21 +92,18 @@ I enjoy turning ideas into beautiful, responsive, and high-performance applicati
 
 ---
 
-# 💡 My Expertise
+## 💻 Core Skills
 
-```text
-📱 Flutter Development        ████████████████ 95%
+<div align="center">
 
-⚛️ React / Next.js           ██████████████░░ 90%
+| 🚀 Development | ⚡ Frameworks | 🤖 AI & Cloud | 🎨 Design |
+|:--------------:|:------------:|:-------------:|:---------:|
+| Flutter | React.js | AI Applications | Figma |
+| Dart | Next.js | Firebase | UI/UX |
+| Python | Node.js | REST APIs | Canva |
+| C++ | WordPress | MySQL | Responsive Design |
 
-🔥 Firebase                  █████████████░░░ 88%
-
-🌐 WordPress                 ███████████████░ 92%
-
-🤖 AI Applications           ████████████░░░░ 82%
-
-🎨 UI / UX Design            █████████████░░░ 88%
-```
+</div>
 
 ---
 
@@ -322,15 +319,16 @@ Dream:
 
 ---
 
-## 📈 GitHub Activity
+## 💻 Technologies I Love
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaz16hub&theme=tokyo-night&hide_border=true"/>
+| Mobile | Frontend | Backend | Database |
+|:------:|:--------:|:-------:|:--------:|
+| Flutter | React | FastAPI | Firebase |
+| Dart | Next.js | Node.js | MySQL |
 
-</p>
-
----
+</div>
 
 # 💬 Developer Philosophy
 
