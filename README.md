@@ -181,7 +181,7 @@ I enjoy turning ideas into beautiful, responsive, and high-performance applicati
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayaz16hub&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayaz16hub&theme=algolia&no-frame=true&column=6&margin-w=15"/>
 
 </div>
 
@@ -247,16 +247,11 @@ timeline
   <a href="https://youtube.com/@mr_AYAZ_Az" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" height="55" />
   </a>
-  <a href="https://x.com/mr_ayaz_16_AZ" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="55" />
-  </a>
+  
 </p>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/mr_malik_ayaz">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
 
 &nbsp;&nbsp;&nbsp;
 
