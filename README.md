@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F0F,35:8B0000,70:DC143C,100:FF3B3B&text=MUHAMMAD%20AYAZ&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F0F,35:8B0000,70:DC143C,100:FF3B3B&text=MUHAMMAD%20AYAZ&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=word%20press%20Developer%20%7C%20Flutter%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Full Stack Developer** from **Pakistan 🇵🇰** who loves building modern digital products.
+I'm a passionate **Wordpress** from **Pakistan 🇵🇰** who loves building modern digital products.
 
 I enjoy turning ideas into beautiful, responsive, and high-performance applications using modern technologies.
 
