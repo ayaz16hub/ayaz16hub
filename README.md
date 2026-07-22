@@ -229,23 +229,28 @@ timeline
 
 # 🌐 Let's Connect
 
-<div align="center">
+<h2 align="center">🌐 Connect With Me</h2>
 
-<a href="https://linkedin.com/in/mr-ayaz">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:ayazfreelancer16@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/ayaz16hub">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
+<p align="center">
+  <a href="https://github.com/ayaz16hub" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
+  </a>
+  <a href="https://linkedin.com/in/mr-ayaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+  <a href="mailto:ayazfreelancer16@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  </a>
+  <a href="https://instagram.com/mr_malik_ayaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+  </a>
+  <a href="https://youtube.com/@mr_AYAZ_Az" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="55" />
+  </a>
+  <a href="https://x.com/mr_ayaz_16_AZ" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="55" />
+  </a>
+</p>
 
 &nbsp;&nbsp;&nbsp;
 
