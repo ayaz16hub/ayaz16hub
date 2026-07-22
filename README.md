@@ -1,27 +1,373 @@
-# 💫 About Me:
-🚀 Passionate Flutter Developer & Mobile App Enthusiast<br><br>💡 Building modern, responsive, and user-friendly mobile applications<br><br>🎯 Focused on:<br> 📱 Flutter App Development<br> 🎨 UI/UX Design<br> 🔥 Firebase Integration<br> 🌐 REST APIs<br> 🤖 AI-Powered Applications<br><br>📚 Currently Learning:<br> 🧠 Advanced Flutter Architecture<br> ☁️ Backend Development<br> 🤖 Artificial Intelligence<br><br>🏆 Goals:<br> Build impactful software solutions<br> Contribute to open-source projects<br> Grow as a Full-Stack Developer<br><br>⚡ Fun Fact:<br>I love turning ideas into beautiful digital experiences.
+<!-- ========================================================= -->
+<!--            MUHAMMAD AYAZ - GITHUB PROFILE README          -->
+<!-- ========================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ayazaz16) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ayazaz16) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AYAZ WP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_malik_ayaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-ayaz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrayazaz16) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_ayaz_16_AZ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mr_AYAZ_Az) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayazfreelancer16@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F0F,35:8B0000,70:DC143C,100:FF3B3B&text=MUHAMMAD%20AYAZ&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ayaz16hub&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ayaz16hub&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayaz16hub&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayaz16hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FF3B3B&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+Developer;React+%26+Next.js+Developer;AI+Application+Developer;WordPress+Developer;Always+Building+Something+Awesome"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayaz16hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=ayaz16hub&label=Profile+Views&color=red&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ayaz16hub?style=for-the-badge&logo=github&color=red"/>
+
+<img src="https://img.shields.io/github/stars/ayaz16hub?style=for-the-badge&logo=github&color=red"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ayaz16hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hey, I'm Muhammad Ayaz
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 🚀 About Me
+
+I'm a passionate **Full Stack Developer** from **Pakistan 🇵🇰** who loves building modern digital products.
+
+I enjoy turning ideas into beautiful, responsive, and high-performance applications using modern technologies.
+
+### 💼 What I Do
+
+- 📱 Flutter Mobile Apps
+- 🌐 React & Next.js Websites
+- 🤖 AI Powered Applications
+- 🔥 Firebase Backend
+- 🛒 WordPress & WooCommerce
+- 🎨 Modern UI/UX Design
+
+### 🌱 Currently Learning
+
+- ⚡ Advanced Flutter Architecture
+- 🚀 Backend Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Technologies
+
+### 🎯 My Mission
+
+> Build software that solves real-world problems and create digital experiences people love.
+
+<br clear="right"/>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 🚀 Languages
+
+<img src="https://skillicons.dev/icons?i=dart,js,ts,python,cpp,html,css"/>
+
+<br><br>
+
+### 💻 Frameworks
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,firebase"/>
+
+<br><br>
+
+### 🛠️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,gcp"/>
+
+<br><br>
+
+### 🎨 Design Tools
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
+
+<br><br>
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</div>
+
+---
+
+# 💡 My Expertise
+
+```text
+📱 Flutter Development        ████████████████ 95%
+
+⚛️ React / Next.js           ██████████████░░ 90%
+
+🔥 Firebase                  █████████████░░░ 88%
+
+🌐 WordPress                 ███████████████░ 92%
+
+🤖 AI Applications           ████████████░░░░ 82%
+
+🎨 UI / UX Design            █████████████░░░ 88%
+```
+
+---
+
+<div align="center">
+
+### 💭 Favorite Quote
+
+> **"Turning ideas into digital experiences."**
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌟 **Luxury Portfolio** | A premium portfolio website with modern animations, glassmorphism, and responsive design. | Next.js • React • Tailwind |
+| 🤖 **AI ChatBot** | AI-powered chatbot with modern Flutter UI and backend integration. | Flutter • FastAPI • AI |
+| 🛒 **AZ Store** | Complete eCommerce application with Firebase Authentication, Cart, and Admin features. | Flutter • Firebase |
+| 🎓 **University LMS** | Learning Management System for students with notes, quizzes, assignments, and admin panel. | Flutter • Firebase |
+| 🧠 **AI Handwriting Generator** | Converts digital text into realistic handwriting with OCR and PDF export. | Python • OCR • Flutter |
+
+</div>
+
+---
+
+# 💼 Currently Working On
+
+```text
+🚀 Luxury Portfolio Website
+
+📱 Flutter Production Apps
+
+🤖 AI Based Applications
+
+🌐 React & Next.js Projects
+
+🛒 Firebase eCommerce Systems
+
+🎨 Premium UI/UX Design
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+[![Ayaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayaz16hub&theme=github-dark&hide_border=true&bg_color=0D1117&color=FF3B3B&line=FF3B3B&point=FFFFFF)](https://github.com/ayaz16hub)
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayaz16hub&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=ayaz16hub&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz16hub&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayaz16hub&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📌 Development Journey
+
+```text
+2023  ▓▓▓▓▓▓▓░░░  Started Programming
+
+2024  ▓▓▓▓▓▓▓▓▓░  Flutter Development
+
+2025  ▓▓▓▓▓▓▓▓▓▓  Firebase + AI Projects
+
+2026  ▓▓▓▓▓▓▓▓▓▓  Full Stack Development
+```
+
+---
+
+# 🔥 Highlights
+
+<div align="center">
+
+🏆 Building Real-World Applications
+
+📱 Passionate Flutter Developer
+
+⚛️ Modern React & Next.js Developer
+
+🤖 AI Enthusiast
+
+🌐 WordPress Expert
+
+🚀 Always Learning New Technologies
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mr-ayaz">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ayazfreelancer16@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ayaz16hub">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/mr_malik_ayaz">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://youtube.com/@mr_AYAZ_Az">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="52"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|:-----------------------------|:------:|
+| 🚀 Become Full Stack Developer | 🟢 |
+| 📱 Publish Production Flutter Apps | 🟢 |
+| 🤖 Master AI Development | 🟡 |
+| 🌍 Contribute to Open Source | 🟡 |
+| 💼 Grow My Freelancing Career | 🟢 |
+| ⭐ Build SaaS Products | 🔥 |
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+```yaml
+Name: Muhammad Ayaz
+
+Country: Pakistan 🇵🇰
+
+Role: Full Stack Developer
+
+Favorite Language: Dart ❤️
+
+Currently Building:
+   Flutter Apps
+   AI Applications
+   Luxury Portfolio
+   Modern Web Apps
+
+Hobbies:
+   Coding
+   UI Designing
+   Learning New Tech
+   Coffee ☕
+
+Dream:
+   Build Products Used Worldwide 🌎
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayaz16hub/ayaz16hub/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📈 Coding Time
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayaz16hub&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 💬 Developer Philosophy
+
+<div align="center">
+
+## 🚀 "Dream Big. Build Bigger."
+
+*"Every great application starts with one simple idea and thousands of lines of code."*
+
+</div>
+
+---
+
+# ❤️ Support My Work
+
+<div align="center">
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+👨‍💻 Follow my GitHub
+
+💬 Let's build something amazing together!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F0F0F,50:B22222,100:FF3B3B"/>
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF3B3B&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Awesome!;See+You+Again+🚀"/>
+
+</div>
