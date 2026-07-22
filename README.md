@@ -311,11 +311,11 @@ Dream:
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/ayaz16hub/ayaz16hub/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</p>
 
 ---
 
